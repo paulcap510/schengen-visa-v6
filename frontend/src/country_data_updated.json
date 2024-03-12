@@ -1,0 +1,5280 @@
+[
+  {
+    "country_name": "Afghanistan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid for six months at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Polio vaccination up to 1 year before travel is recommended. See the U.S. Centers for Disease Control and Prevention Fact Sheet"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$20,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$20,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Albania",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "At least three months from the date of arrival"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for U.S. citizens. If you are a U.S. citizen and intend to stay more than one year in Albania, you will need to apply for a residency permit.residency permit."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "A yellow fever vaccination certificate is required for travelers aged 1 year or over arriving from countries with risk of yellow fever transmission. A list of those countries can be found by visiting the  World Health Organization (WHO) ."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "1,000,000 lek\u00eb (approximately $9,500 USD, though the rate can fluctuate) or equivalent."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "1,000,000 lek\u00eb (approximately $9,500 USD , though the rate can fluctuate) or equivalent. For more information you can visit  Albanian Customs website."
+      }
+    ]
+  },
+  {
+    "country_name": "Algeria",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months validity"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, unless entering via cruise ship or traveling to certain cities in the south of Algeria."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Travelers must declare at Customs if they are traveling with more than 3,000 Algerian dinar or foreign currency that exceeds 1,000 euros (or equivalent)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Algerian dinars cannot be taken out of the country"
+      }
+    ]
+  },
+  {
+    "country_name": "Angola",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Valid for at least the planned duration of stay"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 blank page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No. U.S. passport holders on tourism are eligible for visa-free entry for stays of up to 30 days at a time (90 days total per calendar year). All other travelers must obtain a visa or visa pre-approval."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever no longer required for USCs"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Declare amounts over $10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Up to the equivalent of $10,000 in combined currency (See currency regulations below)"
+      }
+    ]
+  },
+  {
+    "country_name": "Argentina",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays of 90 days or less"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Up to $10,000 USD or equivalent undeclared for those over age 16; up to $5,000 USD or equivalent undeclared for those under 16"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Up to US$10,000 or equivalent undeclared for those over age 16; up to US$5,000 or equivalent undeclared for those under 16"
+      }
+    ]
+  },
+  {
+    "country_name": "Armenia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry and departure"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "No requirement"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "None for U.S. Citizens staying for less than 180 days per year"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000 USD"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000 USD"
+      }
+    ]
+  },
+  {
+    "country_name": "Australia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes \u2013 visa or Electronic Travel Authority (ETA)"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Amounts over AUD 10,000, or equivalent, must be declared"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Amounts over AUD 10,000, or equivalent, must be declared"
+      }
+    ]
+  },
+  {
+    "country_name": "Austria",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months validity recommended, at least 3 months validity beyond your planned date of departure from the Schengen area is required."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days within each 180-day period"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "For a complete list of recommended vaccinations, please see the CDC country page on Austria."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "Azerbaijan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Travelers may bring in any amount of foreign currency as long as they declare it upon arrival."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Travelers may depart with up to $10,000 undeclared, or up to $50,000 or equivalent if they provide documents showing they declared the amount to customs upon arrival."
+      }
+    ]
+  },
+  {
+    "country_name": "Bahamas",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Passports must be valid at time of entry through departure (throughout the duration of stay)."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages are required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Visitors must declare currency and other negotiable instruments of $10,000 or more upon entry."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Visitors must declare currency and other negotiable instruments of $10,000 or more upon exit."
+      }
+    ]
+  },
+  {
+    "country_name": "Bahrain",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "No data found"
+      }
+    ]
+  },
+  {
+    "country_name": "Bangladesh",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months beyond planned stay."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes. Visa on arrival is available for some travelers. Check the Bangladeshi Embassy website for the latest information."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Hepatitis A and Typhoid vaccinations required; Hepatitis B, Japanese Encephalitis, and Rabies vaccinations recommended. There is no risk of Yellow Fever in Bangladesh; however, proof of Yellow Fever vaccination is required if you are traveling from a country with a risk of Yellow Fever and are older than one year of age."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "You must declare 5,000 U.S. dollars and above."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "You cannot depart with more USD than you declared upon entry. You cannot take more than 5,000 Bangladeshi taka (appx. $58.82 USD) out of Bangladesh without a declaration. More information is available\u202fhere: Bangladesh Customs, National Board of Revenue (NBR)"
+      }
+    ]
+  },
+  {
+    "country_name": "Barbados",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 6 months"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Belarus",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "No data found"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "No data found"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No data found"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "USD $10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "USD $10,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Belgium",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid for at least three months beyond your planned date of departure from\u00a0the Schengen area. The 12-page U.S. emergency passport is not valid for visa-free entry into Belgium."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages minimum"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "Belize",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Length of stay"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays of 30 days or less"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$5,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$5,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Benin",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "None"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever vaccine on WHO Yellow Card required"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Must declare over 5 million West African Franc (CFA)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Must declare over 5 million CFA"
+      }
+    ]
+  },
+  {
+    "country_name": "Bermuda",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Importing or exporting accompanied personal cash or negotiable instruments in excess of BDA $10,000\u202frequires a Customs Traveler Declaration"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Importing or exporting accompanied personal cash or negotiable instruments in excess of BDA $10,000\u202frequires a Customs Traveler Declaration"
+      }
+    ]
+  },
+  {
+    "country_name": "Bolivia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months (as of entry date into the country)."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000."
+      }
+    ]
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Three months past your planned date of departure"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under three months"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None required"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Amounts exceeding 10,000 Euros or equivalent must be declared on arrival"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Amounts exceeding 10,000 Euros or equivalent require a bank certificate that the amount has been taken out from currency savings or bought from an authorized bank."
+      }
+    ]
+  },
+  {
+    "country_name": "Botswana",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Three or more unused pages; one blank page per entry"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yes, if entering from yellow fever endemic countries."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Brazil",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid on the date of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, beginning April 10, 2024"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None required, but see Health section"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "More than 10,000 BR must be declared to Customs"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "More than 10,000 BR must be declared to Customs"
+      }
+    ]
+  },
+  {
+    "country_name": "Brunei",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months beyond arrival date"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp, six blank visa pages if applying for visa"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Review Entry, Exit, and Visa Requirements below."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "BND 15,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "BND 15,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Bulgaria",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "3 Months beyond the departure date from Bulgaria."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One blank page for entry/exit stamps."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not for stays under 90 days if using a regular passport; visa required if using a diplomatic or official passport."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "For information on COVID-19 vaccination requirements, please see the Embassy\u2019s COVID-19 information page for the latest guidance."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent."
+      }
+    ]
+  },
+  {
+    "country_name": "Burkina Faso",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One blank page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Burma (Myanmar)",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 Months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Travelers are required to show documentation for COVID-19 medical insurance, and a completed Health Declaration Form."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Amounts in excess of USD 10,000 must be declared upon entry"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Amounts in excess of USD 10,000 must be declared upon exit"
+      }
+    ]
+  },
+  {
+    "country_name": "Burundi",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Minimum 6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One visa page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, also available upon arrival."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "US$10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "US$10,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Cabo Verde (Cape Verde)",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months beyond the date of intended departure"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for tourist travel under 30 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "1 million Cabo Verdean escudos or equivalent"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "1 million Cabo Verdean escudos or equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "Cambodia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page is required per entry stamp; please note endorsement pages are not considered blank passport pages."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "The import of local currency (Riel) is prohibited. When entering Cambodia foreign currency amounts over US $10,000 must be declared."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "The export of local currency (Riel) is prohibited. Foreign currency can be taken out of the country up to the limit declared at customs on arrival."
+      }
+    ]
+  },
+  {
+    "country_name": "Cameroon",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six\u00a0months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "While there are no official restrictions, travelers are required to make a declaration when they are exiting with XAF 3,000,000 or more."
+      }
+    ]
+  },
+  {
+    "country_name": "Canada",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 180 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Central African Republic",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "All currency must be declared upon entry."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None."
+      }
+    ]
+  },
+  {
+    "country_name": "Chad",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, obtain in advance"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Declare amounts over 5 million CFA"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Maximum of 5 million CFA"
+      }
+    ]
+  },
+  {
+    "country_name": "Chile",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "For the duration of stay"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page minimum for immigration entry stamp is required"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays of 90 days or less (tourist passports only)"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Covid 19 vaccination is required upon entry.  Without proof of vaccination, a negative PCR test issued not more than 48 hours prior to entry to Chile is required."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "China",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Recommend consult with travel clinic"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Max RMB 20,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Max RMB 20,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Colombia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at the time of entry and for the duration of stay."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp unless enrolled in Migraci\u00f3n Autom\u00e1tica, a program for frequent travelers."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays 90 days or less."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever vaccination is required for travelers coming from certain countries or visiting certain national parks."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 USD maximum."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 USD maximum."
+      }
+    ]
+  },
+  {
+    "country_name": "Comoros",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, available upon arrival"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "No"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "No"
+      }
+    ]
+  },
+  {
+    "country_name": "Costa Rica",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Length of stay."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays less than 180 days, but return ticket required."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever, if arriving from certain countries in South America or Africa."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 USD."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 USD."
+      }
+    ]
+  },
+  {
+    "country_name": "Côte d'Ivoire (Ivory Coast)",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months validity upon entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever required."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "500,000 CFA Francs (approximately 1,000 USD)."
+      }
+    ]
+  },
+  {
+    "country_name": "Croatia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Three months after the planned date of departure"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page is required for an entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Up to 10,000 euros"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Up to 10,000 euros"
+      }
+    ]
+  },
+  {
+    "country_name": "Cuba",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must have six months validity at the time of entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages are required for entry/exit stamps."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes. Travel to Cuba for tourist activities remains prohibited by statute. See 31 C.F.R 515.560 and OFAC's Frequently Asked Questions."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None. See CDC for recommendations."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "U.S. credit and debit cards do not work in Cuba.  You should bring U.S. dollars or Euros to Cuba and exchange them for Cuban Pesos (CUP) at authorized banks, CADECA offices, airports or hotels. Travelers should confirm alternative payment options before traveling, as policies concerning the use of U.S. dollars in Cuba are subject to change. The Cuban government requires that travelers declare cash amounts over the equivalent of 5,000 USD."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "When departing Cuba, we advise U.S. travelers to spend or exchange CUP to a foreign currency well before reaching airport security checkpoints.  Currency exchange houses in the departure area at airports are currently closed and Cuban pesos are not internationally convertible outside of Cuba..  International airlines flying to the United States include departure fees and taxes in the price of airline tickets.  U.S. dollars are not accepted for payment of any additional products purchased at the airport. Under Cuban law, travelers may export up to the equivalent of 5,000 USD out of the country.  Anyone wishing to depart Cuba with more than this amount of cash must demonstrate evidence that the currency was acquired legitimately from a Cuban bank."
+      }
+    ]
+  },
+  {
+    "country_name": "Curaçao",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid for period of stay. See here for more information on entry requirements."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "None"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever if arriving from select countries."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Amounts exceeding USD 11,000 (or equivalent) must be declared"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Amounts exceeding USD 11,000 (or equivalent) must be declared"
+      }
+    ]
+  },
+  {
+    "country_name": "Cyprus",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months remaining validity recommended"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Czech Republic",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages required"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays less than 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "\u20ac10,000+ euros or equivalent must be declared"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "\u20ac10,000+ euros or equivalent must be declared"
+      }
+    ]
+  },
+  {
+    "country_name": "Democratic Republic of the Congo (D.R.C.)",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, obtain in advance."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "5 million CDF ($5,400)."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Illegal to export CDF."
+      }
+    ]
+  },
+  {
+    "country_name": "Denmark",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "No data found"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "No data found"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No data found"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros (or equivalent)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros (or equivalent)"
+      }
+    ]
+  },
+  {
+    "country_name": "Djibouti",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must have at least 6 months validity"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever, if arriving from a yellow-fever prone country"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Dominican Republic",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Passports must be valid for the period of stay in the Dominican Republic."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for visits shorter than 30 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None required if arriving from the United States"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000 and over or its equivalent must be declared"
+      }
+    ]
+  },
+  {
+    "country_name": "Ecuador",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not for stays less than 90 days in any 12-month period."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Travelers must declare currency in amounts greater than $10,000. See the Ecuadorian customs website."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "There is a 5 percent tax on currency taken out of Ecuador above $1200.00. See the Ecuadorian Revenue Service website."
+      }
+    ]
+  },
+  {
+    "country_name": "Egypt",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must have six months validity"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "At least one blank page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Less than $10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Less than $10,000"
+      }
+    ]
+  },
+  {
+    "country_name": "El Salvador",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Passport must be valid at time of entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "At least one blank page."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "A visa is not required for stays under 90 days, but you must purchase a tourist card for 12 USD upon arrival. The card is valid for 90 days. If your U.S. passport shows you were born in El Salvador, you do not need the tourist card."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None, check recommendation in Health Section."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Currency in excess of 10,000 USD must be declared."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Currency in excess of 10,000 USD must be declared."
+      }
+    ]
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Proof of vaccination for yellow fever and polio required. A polio booster dose is required for those who have completed the normal series of the polio vaccine."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$4,000 USD or 1,000,000 CFA"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$4,000 USD or 1,000,000 CFA"
+      }
+    ]
+  },
+  {
+    "country_name": "Eritrea",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Declare amounts over $10,000 USD"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Declare amounts over $10,000 USD, Maximum allowed 1000 Nakfa."
+      }
+    ]
+  },
+  {
+    "country_name": "Estonia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Should be valid for at least three months beyond your stay"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "None"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Maximum 10,000 USD"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Maximum 10,000 USD"
+      }
+    ]
+  },
+  {
+    "country_name": "Eswatini",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages per entry"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No, if staying 30 days or less"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever, if entering from a yellow fever country"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Ethiopia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months.."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes  (www.evisa.gov.et)"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever certificate required if traveling from a country with risk of yellow fever transmission; recommended for all areas in Ethiopia except Afar and Somali regions."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "1,000 ETB for all travelers; 1000 USD or other foreign currency equivalent if person resides in Ethiopia; 3,000 USD or other foreign currency equivalent if person is not residing in Ethiopia. Excess currency may be confiscated."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "1,000 ETB (4,000 ETB if travelling to Djibouti) and 3,000 USD or other foreign currency equivalent."
+      }
+    ]
+  },
+  {
+    "country_name": "Fiji",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "At least six months after your scheduled departure from Fiji"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays of fewer than four months"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Currency over F$10,000 or the U.S. dollar equivalent must be declared"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Currency over F$10,000 or the U.S. dollar equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "Finland",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months recommended"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "None required"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros (or equivalent)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros (or equivalent)"
+      }
+    ]
+  },
+  {
+    "country_name": "France",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "At least three months beyond date of departure from the Schengen area. The 12-page U.S. emergency passport is not valid for visa-free entry into France."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Must have at least one blank page for stamps"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros Max"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros Max"
+      }
+    ]
+  },
+  {
+    "country_name": "Gabon",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Georgia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at the time of entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page is required for an entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays of 365 days or less."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Hepatitis A and pre-exposure rabies are recommended."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "No data found"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "No data found"
+      }
+    ]
+  },
+  {
+    "country_name": "Germany",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Three months beyond planned date of departure from the Schengen area including transit (strictly enforced)."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000\u20ac (euros or equivalent)."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000\u20ac (euros or equivalent)."
+      }
+    ]
+  },
+  {
+    "country_name": "Ghana",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months validity"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page for stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Maximum of $10,000 USD"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Maximum of $10,000 USD"
+      }
+    ]
+  },
+  {
+    "country_name": "Greece",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months of remaining validity recommended."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays less than 90 days; visa required for all official and diplomatic passport holders. If traveling on DOD orders, review the guidance in the Department of Defense Foreign Clearance Guide."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 euros or the equivalent."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 euros or the equivalent."
+      }
+    ]
+  },
+  {
+    "country_name": "Guatemala",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Passport must be valid at the time of entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "A visa is not required."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "There are no restrictions, but if the passenger is carrying $10,000 or more, s/he will need to justify the income and the purpose"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "There are no restrictions, but if the passenger is carrying $10,000 or more, s/he will need to justify the income and the purpose"
+      }
+    ]
+  },
+  {
+    "country_name": "Guinea",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months validity"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever; The Government of Guinea requires all non-Guinean citizens age 18 and over entering the country to be fully vaccinated against COVID-19."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "No more than 100,000 GNF or $5,000 USD or the equivalent in Euros"
+      }
+    ]
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None."
+      }
+    ]
+  },
+  {
+    "country_name": "Guyana",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "COVID-19"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Failure to declare funds in excess of $10,000 USD can result in prosecution and possible forfeiture."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Failure to declare funds in excess of $10,000 USD can result in prosecution and possible forfeiture."
+      }
+    ]
+  },
+  {
+    "country_name": "The Gambia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Valid for duration of stay."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None required, but see Health section."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None."
+      }
+    ]
+  },
+  {
+    "country_name": "Haiti",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, for stays over 90 days. Foreign passport holders visiting Haiti must pay a tourist fee of $10.00 at the airport"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None; however, review current COVID testing and vaccination guidance"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Honduras",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Passport must have three months validity."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No for stays of up to 90 days."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Required: Honduras currently requires travelers arriving from or traveling to Panama and every nation in South America to present proof of yellow fever vaccine. Effective March 22, 2023: Travelers are no longer required to provide proof of vaccination against COVID-19 or negative test results for a PCR, Antingen, or ELISA test prior to entry in to Honduras. Airlines may still require additional documentation prior to boarding. Suggested: measles, rubella, rabies, hepatitis A, hepatitis B, typhoid."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Travelers must declare any amount over $10,000."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Travelers must declare any amount over $10,000."
+      }
+    ]
+  },
+  {
+    "country_name": "Hungary",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months validity recommended; three months validity beyond planned departure date from the Schengen Zone required."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One (1) page per stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Amounts of more than 10,000 Euros (or equivalent currency) must be declared."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Amounts of more than 10,000 Euros (or equivalent currency) must be declared."
+      }
+    ]
+  },
+  {
+    "country_name": "Iceland",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "No data found"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "No data found"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No data found"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "No data found"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "No data found"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "No data found"
+      }
+    ]
+  },
+  {
+    "country_name": "India",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid for six months beyond date of visa application to obtain a visa."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages required."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes.  Travelers must enter in either on a paper visa, valid for 10 years for U.S. citizens, or an e-tourist visa."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Required for yellow fever if the traveler is arriving from an infected area; others are suggested."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "The possession of satellite phones is prohibited in India; Currency in excess of USD $5,000 must be declared. Please check with the Indian Embassy in Washington if you are planning to carry a large amount of currency into India."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Check local law for reporting requirements for exiting with large quantities of foreign currency and Indian rupees."
+      }
+    ]
+  },
+  {
+    "country_name": "Indonesia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months beyond arrival date. Indonesia does not accept the 12-page U.S. emergency passport for entry into Indonesia."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two blank visa pages required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, Visa or Visa on Arrival"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "100,000,000 Indonesian rupia (approx. $7,000 USD)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "100,000,000 Indonesian rupia (approx. $7,000 USD)"
+      }
+    ]
+  },
+  {
+    "country_name": "Iran",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, except for Kish Island"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "No proof of vaccination is required"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Over \u20ac10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Over \u20ac5,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Iraq",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "No data found"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "No data found"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No data found"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "No data found"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "No data found"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "No data found"
+      }
+    ]
+  },
+  {
+    "country_name": "Ireland",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid for the duration of your stay in Ireland"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Must have at least one page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "Israel, the West Bank and Gaza",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "No minimum requirement, but your authorized stay will not exceed the validity remaining on your passport and airlines may decline boarding if a traveler has fewer than six months validity on his or her passport."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page (although passports are normally not stamped upon entry)."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays of 90 days or fewer. Please see below for detailed information about entry, exit and visa requirements."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "You must declare if you are carrying 50,000 shekels or more when entering or exiting Israel by air and 12,000 shekels if entering or exiting by land."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "You must declare if you are carrying 50,000 shekels or more when entering or exiting Israel by air and 12,000 shekels if entering or exiting by land."
+      }
+    ]
+  },
+  {
+    "country_name": "Italy",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months validity recommended, at least 3 months validity beyond your planned date of departure from the Schengen area."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent."
+      }
+    ]
+  },
+  {
+    "country_name": "Jamaica",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at the time of entry and exit"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Only for a stay over 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever vaccine required if traveling from a country with yellow fever risk"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Jordan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes. Jordan issues single entry visas to U.S. citizens upon arrival at Queen Alia International Airport and most international land border crossings."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Declaration required if greater than JOD10,000 or the equivalent in other currencies."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None."
+      }
+    ]
+  },
+  {
+    "country_name": "Kazakhstan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Three months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, for stays longer than 30 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000."
+      }
+    ]
+  },
+  {
+    "country_name": "Kenya",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Maximum-100,000 Kenyan Shillings"
+      }
+    ]
+  },
+  {
+    "country_name": "Kosovo",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for visits less than 90 days in a six-month period"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 euros or more in cash must be declared"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 euros or more in cash must be declared"
+      }
+    ]
+  },
+  {
+    "country_name": "Kuwait",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months from date of arrival."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None for temporary visitors."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "More than 3,000 KD needs be declared."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None."
+      }
+    ]
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "No data found"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "No data found"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No data found"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "No data found"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "No data found"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "No data found"
+      }
+    ]
+  },
+  {
+    "country_name": "Laos",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 (endorsement pages are not considered blank)."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "The import of local currency is not permitted. 2,500 USD or equivalent in foreign currency must be declared."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "The export of local currency is not permitted. 2,500 USD or equivalent in foreign currency must be declared."
+      }
+    ]
+  },
+  {
+    "country_name": "Latvia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months recommended beyond the period of stay"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays less than 90 days within a six-month period"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "Lebanon",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Valid for ninety days following entry, with no Israeli stamps or visas"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Lesotho",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry; 3 months of remaining validity suggested"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required if stay is less than 180 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever if traveling from or through a yellow fever endemic country."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Liberia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Valid at time of entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per entry."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Report more than $10,000."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "No more than $7,500 at one time."
+      }
+    ]
+  },
+  {
+    "country_name": "Libya",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "The import of local currency for both residents and non-residents is prohibited."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "The export of local currency for both residents and non-residents is prohibited."
+      }
+    ]
+  },
+  {
+    "country_name": "Lithuania",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "Luxembourg",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months is recommended in the Schengen area"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays less than 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "Macau",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "At least 90 days beyond the intended period of stay"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 30 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Madagascar",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months at the time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "3 pages"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, available upon arrival"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever, if traveler has been in a yellow fever endemic country within 6 months of arrival"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Malawi",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever, COVID-19"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Must declare all foreign currency upon arrival. Doing so helps to ensure travelers will be allowed to depart Malawi with foreign currency."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$5,000 is the maximum amount of foreign currency with which travelers may exit the country. Funds in excess of this amount (and previously undeclared upon arrival) may be confiscated and travelers may be arrested for failure to declare the foreign currency. Currency regulations are controlled by multiple entities, change often, and are not consistently applied by authorities. Citizens have spent months detained while Malawi authorities attempt to determine which regulations apply."
+      }
+    ]
+  },
+  {
+    "country_name": "Malaysia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months beyond date of arrival"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "At least one blank page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not normally required for stays of less than 90 days."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000 or equivalent"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000 or equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "Maldives",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid Must be valid for six months from expected date of departure from Maldives."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Visitor visa available at the airport for stays up to 30 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Required for yellow fever if arriving from an infected area"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Mali",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Valid at the time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever, COVID-19"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Malta",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid for at least three months beyond your planned date of departure from the Schengen area."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays less than 90 days."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Reciprocal to country of origin."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 euros or equivalent."
+      }
+    ]
+  },
+  {
+    "country_name": "Marshall Islands",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six Months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "At least one blank page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not for U.S. citizens"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Measles"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Mauritania",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months remaining validity upon entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, and should be obtained before travel, overseas."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Evidence of yellow fever vaccination required."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Local currency may not be imported.\u00a0 See below"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Local currency may not be exported.\u00a0 See below"
+      }
+    ]
+  },
+  {
+    "country_name": "Mauritius",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Duration of stay"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No, tourist visa is granted upon arrival"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever, if traveling from a country with endemic yellow fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Mexico",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Passport must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, if visiting for more than 180 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "See Travelers\u2019 Health section"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Micronesia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "No requirement"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "A valid international certificate of vaccination is required for travelers coming from a region infected with smallpox, yellow fever, or cholera. Current measles vaccine is recommended due to an outbreak in the area the last quarter of 2019. As of July 28, 2023, proof of COVID-19 vaccination is no longer required for entry into the FSM.  The lifting of the vaccination mandate applies to all, whether FSM citizens, nationals, non-citizens, nonresident workers, diplomats, crew of vessels or aircraft, and contractual personnel of foreign governments and international organizations."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "You must declare amounts equivalent to $10,000 or above."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Moldova",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "3 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays of up to 90 days within a six-month period"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "Mongolia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months from date of entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays of fewer than 90 days. All visitors must register with  Mongolian Immigration within 48 hours of arrival."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Mongolian law requires travelers to declare any cash, financial instruments, and cryptocurrency equal to or greater than 15 million Mongolian tugrik (MNT), approximately 5,250 USD as of September 2020, in value to a customs official upon entry into Mongolia."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Mongolian law requires travelers to declare any cash, financial instruments, and cryptocurrency equal to or greater than 15 million Mongolian tugrik (MNT), approximately 5,250 USD as of September 2020, in value to a customs official upon their exit from the country."
+      }
+    ]
+  },
+  {
+    "country_name": "Montenegro",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "No vaccines are required to enter Montenegro.  For the most updated and detailed information please visit the Embassy\u2019s COVID-19 information page."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Currency in excess of 10,000 Euros (or equivalent) must be declared"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Currency in excess of 10,000 Euros (or equivalent) must be declared"
+      }
+    ]
+  },
+  {
+    "country_name": "Morocco",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must have at least six months of validity at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Declare large quantities at entry"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Export of Moroccan currency is prohibited"
+      }
+    ]
+  },
+  {
+    "country_name": "Mozambique",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months from entry into Mozambique."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 for visa and entry/exit stamps."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No, for those traveling to the country and not residing with a citizen or resident of Mozambique (i.e., hotel, guest house, or lodge). Yes, for those visiting a citizen or resident of Mozambique ."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever if endemic country recently visited (although sometimes applied more broadly to travelers from other places)."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "USD $5000 and 10,000 Mozambican Meticais (without declaration)."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "USD $5000 and 10,000 Mozambican Meticais (without declaration)."
+      }
+    ]
+  },
+  {
+    "country_name": "Namibia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 Months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "3 Pages"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays of 90 days or fewer per calendar year"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever, if traveling from a yellow fever endemic country"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Not applicable"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Not applicable"
+      }
+    ]
+  },
+  {
+    "country_name": "Nepal",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must have six months remaining validity or more at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "At least one blank visa page (not endorsements page) required for entry visa"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "COVID-19 vaccination/negative PCR test report is not required (Effective May 26, 2023)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "US $5,000; Pure/raw/unworked gold and silver are strictly prohibited; Worked gold/jewelry up to 50 grams and worked silver/jewelry up to 100 grams are allowed. Indian currency in denominations greater than 100 rupees notes"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "US $5,000; Pure/raw/unworked gold and silver are strictly prohibited; Worked gold/jewelry up to 50 grams and worked silver/jewelry up to 100 grams are allowed; Indian currency in denominations greater than 100 rupees notes"
+      }
+    ]
+  },
+  {
+    "country_name": "Netherlands",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "A passport must be valid for at least three months beyond planned date of departure from the Schengen area. The 12-page U.S. emergency passport is not accepted by Dutch authorities for visa-free entry into the Netherlands."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "New Zealand",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Three months beyond the planned date of departure from New Zealand."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "New Zealand Electronic Travel Authority (NZeTA) or visa is required."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Border Cash Report required for New Zealand Dollars (NZD) $10,000 or more in cash or foreign equivalent."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None."
+      }
+    ]
+  },
+  {
+    "country_name": "Nicaragua",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Length of stay."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No (90 days or fewer). Tourist card at airport. See Entry, Exit & Visa Requirements below."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever (in some cases, see Entry Requirements section)."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Must declare $10,000 USD or more in cash."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None."
+      }
+    ]
+  },
+  {
+    "country_name": "Niger",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages are required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever vaccination required"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Nigeria",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Polio and Yellow Fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "No limit if declared"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "No limit if declared"
+      }
+    ]
+  },
+  {
+    "country_name": "North Macedonia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Three months beyond your planned stay."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not for stays less than 90 days within a six month period"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent must be declared"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent must be declared"
+      }
+    ]
+  },
+  {
+    "country_name": "North Korea",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "1-3 months validity (North Korea requirement); 6 months validity (China requirement)"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages are required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Not permissible to take Korean money out of the\u00a0country"
+      }
+    ]
+  },
+  {
+    "country_name": "Norway",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months recommended"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "25,000 Norwegian Kroner (or equivalent), not including traveler\u2019s checks"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "25,000 Norwegian Kroner (or equivalent), without prior approval"
+      }
+    ]
+  },
+  {
+    "country_name": "Oman",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever (when coming from an area with yellow fever outbreaks)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Amounts over 20,000 USD must be declared"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Amounts over 20,000 USD must be declared"
+      }
+    ]
+  },
+  {
+    "country_name": "Pakistan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months beyond the date of arrival"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two blank pages are required for entry and exit stamps"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Polio vaccination within one year before travel may be required to exit Pakistan. See Entry, Exit & Visa Requirements below and our Health Abroad page for more information."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Maximum $5,000 per adult per trip with a maximum of $30,000 per adult per calendar year. Minors are limited to half those amounts."
+      }
+    ]
+  },
+  {
+    "country_name": "Palau",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "At least one page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "None for U.S. citizen tourists visiting for one year or less"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Review the travel section of the Embassy of Palau website and Palau\u2019s Ministry of Health & Human Services website for the most current information."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Amounts over 10,000.00 USD must be declared"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Amounts over 10,000.00 USD must be declared"
+      }
+    ]
+  },
+  {
+    "country_name": "Panama",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "3 months beyond date of arrival"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever for passengers entering from countries with endemic yellow fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One blank page is required."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Obtain a physical visa or eVisa prior to arrival."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "No vaccinations are currently required. The U.S. Centers for Disease Control and Prevention strongly recommends travelers ensure their polio and measles vaccinations are up-to-date."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "More than PGK 20,000 must be declared."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "More than PGK 20,000 must be declared."
+      }
+    ]
+  },
+  {
+    "country_name": "Paraguay",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One requested for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Required, proof of yellow fever vaccination if you are traveling from a country with risk of yellow fever (this does not include the U.S. - for complete list,  see Countries with risk of yellow fever virus (YFV) transmission"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Peru",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must have six months validity at time of entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Free, issued at the port of entry."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None Required."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$30,000 USD. More than $10,000 USD must be declared upon entry."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Same as entry."
+      }
+    ]
+  },
+  {
+    "country_name": "Philippines",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Sufficient space for an entry visa stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No (for tourist travel under 30 days)."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Required for travelers from countries with yellow fever."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "50,000 pesos/$10,000."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "50,000 pesos/$10,000."
+      }
+    ]
+  },
+  {
+    "country_name": "Poland",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months remaining validity strongly recommended; at least three months remaining validity beyond planned departure from the Schengen area is required"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Must have at least one page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000\u20ac (euros or equivalent)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000\u20ac (euros or equivalent)"
+      }
+    ]
+  },
+  {
+    "country_name": "Portugal",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "3 months beyond the date of intended departure."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays in the Schengen area under 90 days and within a 180-day period.  A new period begins after a 90-day absence from the Schengen area."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros or equivalent"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros or equivalent"
+      }
+    ]
+  },
+  {
+    "country_name": "Qatar",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Minimum of 2"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Republic of the Congo",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, obtain in advance"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Not to exceed 5 million CFA (~$8,000)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Declare CFA over 1 million (~$1,500)"
+      }
+    ]
+  },
+  {
+    "country_name": "Russian Federation",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Required six months beyond intended stay"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000 or more must be declared"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "You may export up to $3,000 (or equivalent) without declaring it"
+      }
+    ]
+  },
+  {
+    "country_name": "Rwanda",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yes. Yellow fever vaccination if entering from a country where yellow fever is endemic and/or where there is an active outbreak of yellow fever."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Samoa",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at the time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Sao Tome and Principe",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes,\u00a0for stays over 15 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Report required when exiting with more than 10,000 Euros (see below)"
+      }
+    ]
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "A valid passport is required for U.S. citizens to enter or exit the Kingdom of Saudi Arabia. A minimum of six months\u2019 validity beyond the date of travel is recommended."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Required for certain visa classes"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "More than 16,000 USD must be declared. Customs details are here."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "More than 16,000 USD must be declared. Customs details are here."
+      }
+    ]
+  },
+  {
+    "country_name": "Senegal",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Obtainable upon arrival"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None."
+      }
+    ]
+  },
+  {
+    "country_name": "Serbia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "No vaccines are required to enter Serbia."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None, if under 10,000 euros"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None, if under 10,000 euros"
+      }
+    ]
+  },
+  {
+    "country_name": "Seychelles",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Duration of stay"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 blank page required"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No, visitor permits granted upon arrival with return ticket"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever, if traveling from a yellow fever endemic country"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Amounts above U.S. $10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Amounts above U.S. $10,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Slovakia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months beyond the intended date of departure"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays less than 90 days within a six-month period"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 euros"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 euros"
+      }
+    ]
+  },
+  {
+    "country_name": "Slovenia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months recommended; at least three months beyond your planned departure from\u00a0the Schengen area."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days within each 180-day period."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 euro limit."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 euro limit."
+      }
+    ]
+  },
+  {
+    "country_name": "Solomon Islands",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "All travelers must be fully vaccinated against COVID-19. Proof of measles vaccination required for travelers from measles-affected countries. See details in the Health section below."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Currency equivalent to 50,000 SBD or more must be declared."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Currency equivalent to 50,000 SBD or more must be declared."
+      }
+    ]
+  },
+  {
+    "country_name": "Somalia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months from date of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever vaccination is not required, but most countries transited by airlines flying in and out of Somalia require proof of yellow fever vaccination."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None."
+      }
+    ]
+  },
+  {
+    "country_name": "South Africa",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "30 days beyond your intended date of exit from South Africa.."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 consecutive empty visa pages per entry (not including endorsement pages)."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No, if visiting 90 days or less."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever at least 10 days before arrival is required for travelers originating from or transiting through WHO-designated yellow fever countries."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "ZAR 25,000; Foreign currency unlimited if declared; No Kruger coins."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "ZAR 25,000; Foreign currency unlimited if amount was declared on entry; Up to 15 Kruger coins if proof purchased with foreign currency."
+      }
+    ]
+  },
+  {
+    "country_name": "South Korea",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No \u2013 From April 1, 2023, to December 31, 2024, the Korean Electronic Travel Authorization (K-ETA) is not required for US citizens traveling for short-term business or tourism purposes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "South Sudan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, obtain in advance."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None."
+      }
+    ]
+  },
+  {
+    "country_name": "Spain",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months recommended, 3 months beyond your date of departure is required"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "None required for less than 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Sri Lanka",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid for six months from expected date of departure from Sri Lanka."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever vaccine is required for individuals above nine months of age who are traveling to Sri Lanka from a country designated by the World Health Organization (WHO) to have a risk of yellow fever transmission, including transit more than 12 hours in an airport located in such a country. For more information, please refer to WHO."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Foreign currency over USD 15,000 must be declared."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "If exiting with foreign currency over USD 5,000, the full amount brought in or acquired in Sri Lanka must be declared."
+      }
+    ]
+  },
+  {
+    "country_name": "Saint Kitts and Nevis",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must have six months validity at entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None."
+      }
+    ]
+  },
+  {
+    "country_name": "Saint Lucia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Valid for duration of stay in Saint Lucia"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No, but see entry-exit requirements below"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Saint Vincent and the Grenadines",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "None"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Sudan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months beyond date of entry into Sudan"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$3,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Suriname",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever (in some cases). Please visit the Embassy's COVID-19 page\u202ffor more information on COVID-19 in\u202fSuriname."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Sweden",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "At least three months beyond the period of stay"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Space for entry and exit stamps"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "10,000 Euros (or equivalent)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "10,000 Euros (or equivalent)"
+      }
+    ]
+  },
+  {
+    "country_name": "Switzerland",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Valid for at least six months after your planned date of departure from the Schengen area"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No visa required for visits of 90 days or less"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "No legal requirement"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "No restrictions; officers may question over 10,000 Swiss Francs (CHF)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "No restrictions; officers may question over 10,000 Swiss Francs (CHF)"
+      }
+    ]
+  },
+  {
+    "country_name": "Syria",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Taiwan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Valid throughout duration of stay"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per entry/exit stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stay of less than 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None required. Taiwan\u2019s Centers for Disease Control and Prevention (CDC) recommends travelers to Taiwan be vaccinated against Hepatitis A. Vaccination information can be found here."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Declare cash amounts over 100,000 New Taiwan Dollars (NTD), foreign currencies over 10,000 USD, or over 20,000 Chinese Yuan (RMB). Customs details are here."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Declare cash amounts over 100,000 New Taiwan Dollars (NTD), foreign currencies over 10,000 USD, or over 20,000 Chinese Yuan (RMB). Customs details are here."
+      }
+    ]
+  },
+  {
+    "country_name": "Tajikistan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "At least six months from the date of entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "At least two blank pages."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Required for stays longer than 30 days. See Entry, Exit, and Visa Requirements below for more information about visa-free entry."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$3,000 USD."
+      }
+    ]
+  },
+  {
+    "country_name": "Tanzania",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever required if traveling from a yellow fever endemic country"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Travelers are required to declare international currency valuing more than $10,000 on both entrance and exit from Tanzania. Non-residents (except Kenyans and Ugandans) may not import or export Tanzanian Shillings (TZS)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Non-residents (except Kenyans and Ugandans) may not import or export Tanzanian Shillings (TZS)"
+      }
+    ]
+  },
+  {
+    "country_name": "Thailand",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months from date of entry required"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page is required per entry stamp; please note endorsement pages are not considered blank passport page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No, if your stay is less than 30 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever may be required if arriving from certain countries with yellow fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Timor-Leste",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Togo",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "2 pages"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000"
+      }
+    ]
+  },
+  {
+    "country_name": "Tonga",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays up to 31 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Tongan Pa\u2019anga (TOP) $10,000"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Maximum remittance of TOP $10,000 via bank/financial institution. Approval required for higher amounts"
+      }
+    ]
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "No data found"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No data found"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "No data found"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "No data found"
+      }
+    ]
+  },
+  {
+    "country_name": "Tunisia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Import of Tunisian currency is prohibited. Visitors must declare cash brought into Tunisia in excess of TND 10,000 (or foreign currency equivalent). They must declare amounts above TND 5,000 if they wish to export that amount upon departure."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Export of Tunisian currency is prohibited. Up to TND 3,000 may be re-exchanged into foreign currency upon departure from Tunisia with the original exchange receipt. Visitors may only export up to TND 5,000 (or foreign currency equivalent) if that amount was declared upon arrival."
+      }
+    ]
+  },
+  {
+    "country_name": "Turkey",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Six months beyond date of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page for entry and exit stamps"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 90 days"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "25,000 Turkish lira or 10,000 euros (or equivalent)"
+      }
+    ]
+  },
+  {
+    "country_name": "Turkmenistan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page per entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Covid-19."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$3,000."
+      }
+    ]
+  },
+  {
+    "country_name": "Turks and Caicos Islands",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Three (3) months validity required upon entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages are required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Only for visits over 90 days."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "All travelers age 16 and older must be fully vaccinated against COVID-19. No other vaccinations are currently required."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000."
+      }
+    ]
+  },
+  {
+    "country_name": "Uganda",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow Fever; Polio (for children under 5)"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Ukraine",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry and exit"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for tourism stays of less than 90 days within a 180-day period"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Anything over \u20ac10,000 or foreign currency equivalent must be declared in writing"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Same as restrictions for entry"
+      }
+    ]
+  },
+  {
+    "country_name": "United Kingdom (England)",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid for the duration of your stay in the United Kingdom\u00a0 (If you have onward travel to countries outside the United Kingdom, you should check the passport validity requirements for each additional country on their respective information pages.)"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Must have at least one page"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays less than six months."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Uruguay",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid at time of entry"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No, for stays less than 90 days. A visa is required when traveling on a diplomatic or official passport"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "$10,000.00; any amount greater must be declared with Uruguay\u2019s customs authorities"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$10,000.00; any amount greater must be declared with Uruguay\u2019s customs authorities"
+      }
+    ]
+  },
+  {
+    "country_name": "Uzbekistan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid for at least three months beyond your allowed period of stay."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None required. Vaccinations recommended by the U.S. Centers for Disease Control and Prevention.Vaccinations recommended by the U.S. Centers for Disease Control and Prevention."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "The amount of U.S. dollars or any foreign currency may not exceed the total declared by the traveler upon entry. If it does, the traveler must present bank documents showing the source of the additional currency."
+      }
+    ]
+  },
+  {
+    "country_name": "Vanuatu",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Not required for stays under 30 days."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "All travelers must be fully vaccinated against COVID-19. No other vaccinations are currently required."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Amounts over VUV 1,000,000 (USD 10,000) in local or foreign currency equivalent must be declared."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Amounts over VUV 1,000,000 (USD 10,000) in local or foreign currency equivalent must be declared."
+      }
+    ]
+  },
+  {
+    "country_name": "Venezuela",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Two pages, for visa and entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes. You must get a Venezuelan visa before traveling to Venezuela. Visas are not available upon arrival. Note:  U.S. travelers risk lengthy or indefinite detention for attempts to arrive at any Venezuelan border crossing without a valid Venezuelan visa."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever vaccination required if coming from or transiting for more than 12 hours through Brazil."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "USD 10,000 (or equivalent) or more must be declared."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "USD 10,000 (or equivalent) or more must be declared."
+      }
+    ]
+  },
+  {
+    "country_name": "Vietnam",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must have six months\u2019 validity remaining."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One visa page required for entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Not required."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None. However, Vietnamese Dong in excess of VND 15,000,000 or foreign currency in excess of 5,000 U.S. dollars or equivalent must be declared."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None. However, Vietnamese Dong in excess of VND 15,000,000 or foreign currency in excess of 5,000 U.S. dollars or equivalent must be declared."
+      }
+    ]
+  },
+  {
+    "country_name": "Yemen",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Must be valid for six months at time of entry."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "1 page per entry stamp."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes. Must be obtained at Yemeni embassies and consulates abroad."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "None required."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Unknown."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Unknown."
+      }
+    ]
+  },
+  {
+    "country_name": "Zambia",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "6 months"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "3 blank pages per entry for Zambia"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever, if entering from a yellow fever endemic country"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "None"
+      }
+    ]
+  },
+  {
+    "country_name": "Zimbabwe",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Recommend 6 months."
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "Recommend 2 blanks pages."
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "Yes, to be obtained at port of entry."
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "Yellow fever. See below."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "None."
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "$2,000 USD, more if declared/documented upon entry. See below."
+      }
+    ]
+  }
+]

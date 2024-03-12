@@ -1,0 +1,101 @@
+.visa-api-container {
+  padding: 50px 200px;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.visa-api-container h1,
+.visa-api-container h2 {
+  color: rgb(85, 201, 227);
+  margin-top: 20px;
+}
+
+.visa-results-table {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #222;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.api-list-div ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.api-list-div button {
+  background-color: #222;
+  color: white;
+  border: 2px solid transparent;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.api-list-div button:hover,
+.api-list-div button.active {
+  background-color: rgb(85, 201, 227);
+  color: #222;
+  border-color: rgb(85, 201, 227);
+}
+
+.api-list-div li {
+  cursor: pointer;
+}
+
+.api-list-div li:hover,
+.api-list-div li.active {
+  color: rgb(85, 201, 227);
+}
+
+.country-info-box {
+  height: 400px;
+  width: 90% !important;
+  overflow-y: auto;
+  margin: 40px 0 !important;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #222;
+  color: white;
+  box-shadow: 0 0 20px rgba(128, 0, 128, 0.7) !important;
+}
+
+.country-info-box::-webkit-scrollbar {
+  width: 10px;
+}
+
+.country-info-box::-webkit-scrollbar-track {
+  background: #333;
+  border-radius: 5px;
+}
+
+.country-info-box::-webkit-scrollbar-thumb {
+  background: rgb(85, 201, 227);
+  border-radius: 5px;
+}
+
+.country-info-box::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.country-info-box::-webkit-scrollbar-horizontal {
+  height: 10px;
+}
+
+.country-info-box {
+  scrollbar-width: thin;
+  scrollbar-color: #888 #333;
+}

@@ -1,0 +1,180 @@
+.hero-container {
+  padding: 50px 200px;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero-heading,
+.hero-subheading,
+.hero-text {
+  margin: 20px;
+}
+
+.pink-color {
+  color: pink;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.pink-color:hover,
+.pink-color:focus {
+  color: rgb(255, 105, 180);
+  text-decoration: underline;
+}
+
+.dates-div {
+  margin-top: 50px;
+}
+
+.dates-div h2 {
+  text-align: center;
+}
+
+.date-input-div {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.lightblue-color {
+  color: rgb(85, 201, 227);
+}
+
+.date-input-div {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  min-width: 600px;
+}
+
+.date-text {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+.date-value {
+  margin-left: 0.5em;
+}
+
+.date-selection-div {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.date-label,
+.country-label {
+  margin-bottom: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+.date-picker {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
+.country-select {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+}
+
+.checkbox-container input[type='checkbox'] {
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.add-trip-btn {
+  padding: 15px 30px;
+  background-color: purple;
+  color: white;
+
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.add-trip-btn:hover {
+  background-color: #7d3f98;
+}
+
+.future-option {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.trips-table {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.trips-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.trips-table th,
+.trips-table td {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.trips-table th {
+  background-color: rgb(85, 201, 227);
+  color: black;
+  text-align: left;
+  padding: 10px;
+}
+
+.trips-table td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+.trips-table tr:nth-child(even) {
+  background-color: rgb(85, 201, 227);
+  color: black;
+}
+
+.red-color {
+  color: red;
+}

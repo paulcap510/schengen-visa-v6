@@ -1,0 +1,125 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #350b33;
+  color: white;
+  padding: 10px 50px;
+  font-size: 1.25rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 10px;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.navbar-links a {
+  color: white;
+  text-decoration: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.navbar-links button {
+  border: 1px solid white;
+  background-color: rgb(180, 105, 255);
+  color: white;
+  font-size: 1.1rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-links a:hover {
+  color: rgb(255, 105, 180);
+}
+
+.navbar-button:hover {
+  cursor: pointer;
+  background-color: purple;
+}
+
+.navbar-icon {
+  color: white;
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.navbar-icon:hover {
+  color: rgb(255, 105, 180);
+}
+
+.navbar-button {
+  padding: 0.5rem 1rem;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.icon-container {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 1.75rem;
+}
+
+.icon-container:hover svg,
+.icon-container:hover i {
+  color: rgb(8, 175, 213);
+}
+
+.light-mode {
+  background-color: #f8f8f8e4;
+  color: purple;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.light-mode .icon-container {
+  color: rgb(50, 56, 131);
+}
+
+.light-mode .navbar-links a,
+.light-mode .navbar-links button,
+.light-mode .navbar-icon {
+  color: rgb(50, 56, 131);
+}
+
+.light-mode .navbar-links a:hover,
+.light-mode .navbar-icon:hover {
+  transition: color 0.3s ease;
+  color: rgb(8, 175, 213);
+}
+
+.light-mode .navbar-links button {
+  border: 1px solid #5d5b8d;
+  background-color: rgb(85, 201, 227);
+  color: black;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.light-mode .navbar-links button:hover {
+  border: 1px solid #5d5b8d;
+  background-color: rgb(50, 56, 131);
+  color: rgb(85, 201, 227);
+
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-links a,
+.navbar-links button {
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.navbar-icon {
+  transition: color 0.3s ease;
+}
