@@ -47,3 +47,16 @@
 .email-icon {
   font-size: 1.2rem;
 }
+
+div.footer-container.light-mode {
+  background-color: #f0caca;
+  color: rgb(50, 56, 131);
+}
+
+div.light-mode .social-links li a {
+  color: rgb(50, 56, 131);
+}
+
+div.light-mode .social-links li a:hover {
+  color: rgb(8, 175, 213);
+}

@@ -12,12 +12,17 @@ const Footer = () => {
             <a
               href="https://www.linkedin.com/in/pcapobianco/"
               className="linkedin-icon"
+              target="_blank"
             >
               <i className="fab fa-linkedin"></i> LinkedIn
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/PaulCapo510" className="twitter-icon">
+            <a
+              href="https://twitter.com/PaulCapo510"
+              target="_blank"
+              className="twitter-icon"
+            >
               <i className="fab fa-twitter"></i> Twitter
             </a>
           </li>

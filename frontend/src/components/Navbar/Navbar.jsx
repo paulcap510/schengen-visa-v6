@@ -1,18 +1,12 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
-import './Navbar.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons';
+import './Navbar.css';
 
 const Navbar = () => {
-  const [darkMode, setDarkMode] = useState(true);
-
-  const toggleMode = () => {
-    setDarkMode(!darkMode);
-  };
-
   return (
-    <nav className={`navbar ${darkMode ? '' : 'light-mode'}`}>
+    <nav className="navbar">
       <div className="navbar-logo navbar-links">
         <Link to="/">Paul's Visa Calculator</Link>
       </div>
@@ -22,9 +16,6 @@ const Navbar = () => {
         <Link to="/visa-api">Visa API</Link>
         <Link to="/search">Search</Link>
         <button className="navbar-button">Account (coming soon)</button>
-      </div>
-      <div className="icon-container" onClick={toggleMode}>
-        <FontAwesomeIcon icon={darkMode ? faMoon : faSun} />
       </div>
     </nav>
   );

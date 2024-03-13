@@ -1,11 +1,19 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
 .search-container {
   padding: 50px 200px;
+  min-height: 80vh; /* Allows flexibility but ensures a minimum height */
   background-color: black;
   color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow-y: auto; /* Adds scroll to container for overflow content */
 }
 
 .search-container h1,

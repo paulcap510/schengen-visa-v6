@@ -2320,6 +2320,35 @@
     ]
   },
   {
+    "country_name": "Japan",
+    "info": [
+      {
+        "title": "PASSPORT VALIDITY:",
+        "data": "Duration of intended period of stay. Please note you cannot travel on a passport you have previously declared as lost or stolen even if you subsequently locate it"
+      },
+      {
+        "title": "BLANK PASSPORT PAGES:",
+        "data": "One page required for entry stamp"
+      },
+      {
+        "title": "TOURIST VISA REQUIRED:",
+        "data": "No"
+      },
+      {
+        "title": "VACCINATIONS:",
+        "data": "none"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR ENTRY:",
+        "data": "Amounts equivalent to ¥1,000,000 or above subject to declaration"
+      },
+      {
+        "title": "CURRENCY RESTRICTIONS FOR EXIT:",
+        "data": "Amounts equivalent to ¥1,000,000 or above subject to declaration"
+      }
+    ]
+  },
+  {
     "country_name": "Jamaica",
     "info": [
       {

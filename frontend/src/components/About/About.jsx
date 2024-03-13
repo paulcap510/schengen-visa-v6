@@ -1,9 +1,13 @@
 import React from 'react';
 import './About.css';
+// import { useDarkMode } from '../../DarkModeContext';
 
 const About = () => {
+  // const { darkMode } = useDarkMode();
+
   return (
     <div className="about-container">
+      {/* // <div className={`about-container ${darkMode ? 'light-mode' : ''}`}> */}
       <h1>About</h1>
 
       <h2>Beta Note</h2>

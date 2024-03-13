@@ -1,8 +1,10 @@
 import { useState, useEffect } from 'react';
 import './Hero.css';
 import { Link } from 'react-router-dom';
+// import { useDarkMode } from '../../DarkModeContext';
 
 const Hero = () => {
+  // const { darkMode } = useDarkMode();
   const [entryDate, setEntryDate] = useState('');
   const [exitDate, setExitDate] = useState('');
   const [allowFuture, setAllowFuture] = useState(false);
@@ -109,6 +111,7 @@ const Hero = () => {
 
   return (
     <div className="hero-container">
+      {' '}
       <h1 className="hero-heading">Schengen Visa Calculator</h1>
       <h2 className="hero-subheading">
         Use this to calculator your Schengen Visa stays easily.
@@ -132,7 +135,6 @@ const Hero = () => {
           HOW TO USE.
         </Link>
       </p>
-
       <div className="dates-div">
         <h2>Enter Your Trip Dates Below</h2>
         <div className="date-input-div date-value">

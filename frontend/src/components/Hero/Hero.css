@@ -26,6 +26,10 @@
   text-decoration: underline;
 }
 
+.light-mode .pink-color {
+  color: red;
+}
+
 .dates-div {
   margin-top: 50px;
 }
@@ -42,6 +46,10 @@
 
 .lightblue-color {
   color: rgb(85, 201, 227);
+}
+
+.light-mode .lightblue-color {
+  color: navy;
 }
 
 .date-input-div {
