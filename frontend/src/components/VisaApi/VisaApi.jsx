@@ -21,6 +21,10 @@ const VisaApi = () => {
         information about basic visa information for American citizens traveling
         abroad.
       </p>
+      <p>
+        Please <a href="mailto:paulcapob@gmail.com">email us</a> to report
+        errors or missing data.
+      </p>
       <div className="api-list-div">
         <ul>
           <li>

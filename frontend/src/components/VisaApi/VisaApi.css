@@ -19,6 +19,14 @@
   margin-top: 20px;
 }
 
+.visa-api-container a {
+  color: pink;
+}
+
+.visa-api-container a:hover {
+  color: rgb(255, 105, 180);
+}
+
 .visa-results-table {
   width: 100%;
   display: flex;
