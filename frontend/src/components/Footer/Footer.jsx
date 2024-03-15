@@ -13,6 +13,7 @@ const Footer = () => {
               href="https://www.linkedin.com/in/pcapobianco/"
               className="linkedin-icon"
               target="_blank"
+              rel="noopener noreferrer"
             >
               <i className="fab fa-linkedin"></i> LinkedIn
             </a>
@@ -21,6 +22,7 @@ const Footer = () => {
             <a
               href="https://twitter.com/PaulCapo510"
               target="_blank"
+              rel="noopener noreferrer"
               className="twitter-icon"
             >
               <i className="fab fa-twitter"></i> Twitter
