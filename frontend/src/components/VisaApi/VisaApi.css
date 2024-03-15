@@ -9,8 +9,13 @@
 }
 
 .visa-api-container h1,
-.visa-api-container h2 {
+.visa-api-container h2,
+.visa-api-container h4 {
   color: rgb(85, 201, 227);
+  margin-top: 20px;
+}
+
+.visa-api-container p {
   margin-top: 20px;
 }
 

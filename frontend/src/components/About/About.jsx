@@ -44,7 +44,6 @@ const About = () => {
         entry and exit date fields. It will automatically allow you to input
         future dates.
       </p>
-
       <h2>Attributions</h2>
       <p>Clock icon by Icons8</p>
     </div>
