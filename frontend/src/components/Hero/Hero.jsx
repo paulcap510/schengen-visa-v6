@@ -1,10 +1,8 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import './Hero.css';
 import { Link } from 'react-router-dom';
-// import { useDarkMode } from '../../DarkModeContext';
 
 const Hero = () => {
-  // const { darkMode } = useDarkMode();
   const [entryDate, setEntryDate] = useState('');
   const [exitDate, setExitDate] = useState('');
   const [allowFuture, setAllowFuture] = useState(false);
@@ -135,11 +133,25 @@ const Hero = () => {
           HOW TO USE.
         </Link>
       </p>
+      <h3 className="hero-subheading">Usage</h3>
+      <p className="hero-text">
+        Many visitors to the Schengen Area are allowed 90 days of free travel
+        within the previous 180-day period. I've made this handy calculator to
+        avoid overstaying your visa and keeping track of the days you can stay.
+      </p>
+      <p className="hero-text">
+        Here's a friendly reminder of the countries that entered into the
+        Schengen Agreement: Austria, Belgium, Croatia, Czech Republic, Denmark,
+        Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy,
+        Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands,
+        Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden,
+        Switzerland.
+      </p>
       <div className="dates-div">
         <h2>Enter Your Trip Dates Below</h2>
         <div className="date-input-div date-value">
           <h5 className="date-text">
-            Today:
+            Today:&nbsp;{' '}
             <span className="lightblue-color">
               {today.toLocaleDateString()}
             </span>

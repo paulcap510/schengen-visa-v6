@@ -12,7 +12,6 @@ import countryData from './country_data_updated.json';
 
 function App() {
   return (
-    // <DarkModeProvider>
     <div className="App">
       <Navbar />
       <Routes>
@@ -23,7 +22,6 @@ function App() {
       </Routes>
       <Footer />
     </div>
-    // </DarkModeProvider>
   );
 }
 
