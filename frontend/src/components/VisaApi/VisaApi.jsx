@@ -1,15 +1,24 @@
 import React, { useState } from 'react';
 import './VisaApi.css';
 import countryData from '../../country_data_updated.json';
+import safetyData from '../../safety_data.json';
 
 const VisaApi = () => {
   const [activeItem, setActiveItem] = useState('');
 
-  console.log(countryData);
-
   const handleClick = (itemName) => {
     setActiveItem(itemName);
     console.log(`Active item: ${itemName}`);
+  };
+
+  const displayData = () => {
+    switch (activeItem) {
+      case 'Travel Advisories':
+        return safetyData;
+      case 'Visa Data':
+      default:
+        return countryData;
+    }
   };
 
   return (
@@ -22,9 +31,14 @@ const VisaApi = () => {
         abroad.
       </p>
       <p>
+        PLEASE NOTE: some data may be missing or the data may be inconsistent!
         Please <a href="mailto:paulcapob@gmail.com">email us</a> to report
         errors or missing data.
       </p>
+      <p className="date-text">
+        Most recent data:<b className="date-value">March 2024</b>
+      </p>
+
       <div className="api-list-div">
         <ul>
           <li>
@@ -40,7 +54,7 @@ const VisaApi = () => {
               className={activeItem === 'Travel Advisories' ? 'active' : ''}
               onClick={() => handleClick('Travel Advisories')}
             >
-              Travel Advisories (coming soon)
+              Travel Advisories
             </button>
           </li>
           <li>
@@ -56,7 +70,7 @@ const VisaApi = () => {
 
       <div className="country-info-box">
         <pre>
-          <code>{JSON.stringify(countryData, null, 2)}</code>
+          <code>{JSON.stringify(displayData(), null, 2)}</code>
         </pre>
       </div>
     </div>
