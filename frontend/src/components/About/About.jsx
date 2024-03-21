@@ -13,13 +13,22 @@ const About = () => {
         regularly for updates!
       </p>
 
-      <h2>Usage Statement</h2>
+      <h2>DISCLAIMER/Usage Statement</h2>
       <p>
         This app is for informational purposes only. Please be sure to check
         with your government and the countries you are visiting to confirm the
         rules concerning Schengen Zone visits. By using this app, you take full
         responsibility for your stays and efforts to ensure you are abiding by
         the legal requirements for staying in the Schengen Area.
+      </p>
+      <p>
+        Safety and securtity information comes from the{' '}
+        <a href="https://travel.state.gov/content/travel.html" target="_blank">
+          US State Department's official website.
+        </a>{' '}
+        Calculatevisa.com is not responsible for information accuracy. It is the
+        user's responsibility to thoroughly check and confirm travel advisories
+        and safety information before traveling.
       </p>
 
       <h2>About</h2>
@@ -45,7 +54,12 @@ const About = () => {
         future dates.
       </p>
       <h2>Attributions</h2>
-      <p>Clock icon by Icons8</p>
+      <p>
+        Clock icon by{' '}
+        <a href="https://icons8.com/" target="_blank">
+          Icons8
+        </a>
+      </p>
     </div>
   );
 };

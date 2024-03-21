@@ -5,10 +5,31 @@ import safetyData from '../../safety_data.json';
 
 const VisaApi = () => {
   const [activeItem, setActiveItem] = useState('');
+  const [searchTerm, setSearchTerm] = useState('');
+  const [searchResults, setSearchResults] = useState([]);
 
   const handleClick = (itemName) => {
     setActiveItem(itemName);
-    console.log(`Active item: ${itemName}`);
+    setSearchTerm('');
+    setSearchResults([]);
+  };
+
+  const handleSearchChange = (e) => {
+    setSearchTerm(e.target.value);
+  };
+
+  const handleSearchSubmit = (e) => {
+    e.preventDefault();
+    const data = displayData();
+    const filteredResults = data.filter((country) => {
+      // Assuming you have a common field to search by. Adjust based on your actual data structure.
+      // For simplicity, let's search by country name if it exists.
+      const countryName = country.country_name
+        ? country.country_name.toLowerCase()
+        : '';
+      return countryName.includes(searchTerm.toLowerCase());
+    });
+    setSearchResults(filteredResults);
   };
 
   const displayData = () => {

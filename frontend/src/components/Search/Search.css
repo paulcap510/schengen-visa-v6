@@ -22,6 +22,9 @@ body {
   margin-top: 20px;
 }
 
+.search-container p {
+  margin-top: 20px;
+}
 .search-container input,
 .search-container button {
   margin-top: 20px;
@@ -34,7 +37,7 @@ body {
 }
 
 .search-container button {
-  background-color: purple;
+  background-color: rgb(131, 68, 131);
   color: white;
   font-weight: bold;
   cursor: pointer;
@@ -42,7 +45,7 @@ body {
 }
 
 .search-container button:hover {
-  background-color: #7d3f98;
+  background-color: #700c9a;
 }
 
 .results-container {
@@ -124,4 +127,28 @@ body {
 
 .country-table .info-title {
   font-weight: bold;
+}
+
+.search-buttons-div li {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.search-buttons-div button {
+  background-color: navy;
+  border: 1px solid rgb(85, 201, 227);
+  color: white;
+  border: 2px solid transparent;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.search-buttons-div button:hover,
+.search-buttons-div button.active {
+  background-color: rgb(85, 201, 227);
+  color: #222;
+  border-color: rgb(85, 201, 227);
 }

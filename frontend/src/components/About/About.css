@@ -18,3 +18,12 @@
   margin-bottom: 20px;
   line-height: 1.6;
 }
+
+.about-container a {
+  color: pink;
+}
+
+.about-container a:hover {
+  color: rgb(255, 105, 180);
+  cursor: pointer;
+}
