@@ -56,7 +56,7 @@ const VisaApi = () => {
         Please <a href="mailto:paulcapob@gmail.com">email us</a> to report
         errors or missing data.
       </p>
-      <h2>Accessing the API</h2>
+      {/* <h2>Accessing the API</h2>
 
       <div className="text-container">
         <p>
@@ -122,7 +122,7 @@ const VisaApi = () => {
             </code>
           </li>
         </ul>
-      </div>
+      </div> */}
 
       <p className="date-text">
         Most recent data:<b className="date-value">March 2024</b>
