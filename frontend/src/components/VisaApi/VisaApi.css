@@ -39,6 +39,14 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.visa-api-container ul {
+  margin-top: 10px;
+}
+
+.visa-api-container li {
+  list-style: none;
+}
+
 .api-list-div ul {
   list-style-type: none;
   padding: 0;
@@ -117,4 +125,8 @@
 
 .date-text {
   color: yellow;
+}
+
+.text-container code {
+  color: pink;
 }

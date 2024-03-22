@@ -150,13 +150,13 @@ const Hero = () => {
       <div className="dates-div">
         <h2>Enter Your Trip Dates Below</h2>
         <div className="date-input-div date-value">
-          <h5 className="date-text">
+          <h5 className="date-text-hero">
             Today:&nbsp;{' '}
             <span className="lightblue-color">
               {today.toLocaleDateString()}
             </span>
           </h5>
-          <h5 className="date-text">
+          <h5 className="date-text-hero">
             180 Days Ago:
             <span className="lightblue-color date-value">
               {sixMonthsAgo.toLocaleDateString()}
