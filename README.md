@@ -24,20 +24,10 @@ To query the API simply go to the following production endpoints:
 - Visa Information: `https://calculatevisa.com/.netlify/functions/visaInfo`
 - Safety Information: `https://calculatevisa.com/.netlify/functions/safetyInfo`
 
-For development testing, these can be accessed at:
-
-- Visa Information: `http://localhost:8888/.netlify/functions/visaInfo`
-- Safety Information: `http://localhost:8888/.netlify/functions/safetyInfo`
-
 Likewise using `curl`, for production these can be accessed:
 
 `curl https://calculatevisa.com/.netlify/functions/visaInfo`
 `curl https://calculatevisa.com/.netlify/functions/safetyInfo`
-
-And for development, they can be accessed by:
-
-`curl http://localhost:8888/.netlify/functions/visaInfo`
-`curl http://localhost:8888/.netlify/functions/safetyInfo`
 
 ## Tech Stack
 

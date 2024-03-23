@@ -1,5 +1,4 @@
-// visaInfo.js
-const visaInfo = require('../frontend/src/country_data_updated.json');
+const visaInfo = require('../src/country_data_updated.json');
 
 exports.handler = async (event, context) => {
   return {

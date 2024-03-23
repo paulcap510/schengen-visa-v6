@@ -1,4 +1,4 @@
-const safetyInfo = require('../frontend/src/safety_data.json');
+const safetyInfo = require('../src/safety_data.json');
 
 exports.handler = async (event, context) => {
   return {

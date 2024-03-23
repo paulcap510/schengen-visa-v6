@@ -56,8 +56,7 @@ const VisaApi = () => {
         Please <a href="mailto:paulcapob@gmail.com">email us</a> to report
         errors or missing data.
       </p>
-      {/* <h2>Accessing the API</h2>
-
+      <h2>Accessing the API</h2>
       <div className="text-container">
         <p>
           <p>
@@ -73,18 +72,6 @@ const VisaApi = () => {
               <code>
                 https://calculatevisa.com/.netlify/functions/safetyInfo
               </code>
-            </li>
-          </ul>
-
-          <p>For development testing, these can be accessed at:</p>
-          <ul>
-            <li>
-              Visa Information:{' '}
-              <code>http://localhost:8888/.netlify/functions/visaInfo</code>
-            </li>
-            <li>
-              Safety Information:{' '}
-              <code>http://localhost:8888/.netlify/functions/safetyInfo</code>
             </li>
           </ul>
         </p>
@@ -107,27 +94,10 @@ const VisaApi = () => {
             </code>
           </li>
         </ul>
-        <p>
-          For testing, these commands can be accessed using <code>curl</code>:
-        </p>
-        <ul>
-          <li>
-            Visa Information:{' '}
-            <code>curl http://localhost:8888/.netlify/functions/visaInfo</code>
-          </li>
-          <li>
-            Safety Information:{' '}
-            <code>
-              curl https://calculatevisa.com/.netlify/functions/safetyInfo
-            </code>
-          </li>
-        </ul>
-      </div> */}
-
+      </div>{' '}
       <p className="date-text">
         Most recent data:<b className="date-value">March 2024</b>
       </p>
-
       <div className="api-list-div">
         <ul>
           <li>
@@ -156,7 +126,6 @@ const VisaApi = () => {
           </li>
         </ul>
       </div>
-
       <div className="country-info-box">
         <pre>
           <code>{JSON.stringify(displayData(), null, 2)}</code>
